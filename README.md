@@ -15,3 +15,4 @@ rendering is not particularly efficient:
   -of OpenGl rendering was limited back then...
   -however the programm is still very useable
   
+![icon](icon.PNG)
