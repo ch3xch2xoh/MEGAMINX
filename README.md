@@ -5,7 +5,8 @@
 
 internal logic can solve the megamix and animate it
 
-This project depends on PyOpenGL and pygame
+You need to install Python3 to use this.
+This project depends on PyOpenGL and pygame.
 If using the run.sh (Linux) the dependencies should be installed automatically (venv)
 The same goes for the run.bat (Windows) (this one was generated from the run.sh and not tested)
 
